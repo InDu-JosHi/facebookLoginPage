@@ -1,0 +1,59 @@
+.body{
+    background-color: rgb(215, 230, 235);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.fblogin{
+display: flex;
+align-items: center;
+}
+.f{
+color: blue;
+font-size: 50px;
+}
+.fb{
+    margin-left: 200px;
+    margin-right: 300px;
+
+}
+.frm{
+    margin-top: 100px;
+    border: 1px solid white;
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    text-align: center;
+}
+.in{
+margin-bottom: 4px;
+border-radius: 5px;
+border: 1px solid #8A8D91;
+padding: 6px 25px;
+}
+.btn{
+    margin-top: 20px;
+    padding: 6px 95px;
+    color: white;
+    background-color: blue;
+    border-radius: 5px;
+    border: 0px;
+}
+.for{
+    text-align: center;
+    color: blue;
+    margin-bottom: 25px;
+}
+.bt{
+    color: white;
+    background-color: #42B72A;
+    border-radius: 5px;
+    border: 0px;
+    padding: 6px 50px;
+    margin-bottom: 15px;
+}
+.sp{
+    text-align: center;
+}
+.spn{
+    font-weight: bold;
+}
+    
